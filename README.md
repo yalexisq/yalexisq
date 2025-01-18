@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexis! A software engineering student.
+- 👋 Hi, I’m Alexis, a Software Engineering student at McMaster University !
   
 <!---
 yalexisq/yalexisq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
