@@ -6,3 +6,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/y-alexis-q) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ysabella.a.quilatan@gmail.com) 
+
+##What I'm Listening to..
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wifi.alexis.q&cover_image=true&theme=novatorem&show_offline=false&background_color=6c647d&interchange=false&bar_color=e3e8e3&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wifi.alexis.q&redirect=true)
